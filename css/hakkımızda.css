@@ -1,0 +1,26 @@
+.hakkımızda{
+    background-color: white;
+    overflow:hidden;
+}
+.hakkımızda h2{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+ 
+}
+
+.icerik{
+    float: left;
+    width: 50%;
+    padding: 10px;
+     
+}
+
+.icerik:nth-child(1){
+    background-repeat: no-repeat;
+    
+    
+    background-size: 100% 300px; 
+}
+
+
